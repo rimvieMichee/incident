@@ -17,6 +17,8 @@ import 'package:google_fonts/google_fonts.dart';
 class MaterialRadius {
   double xs, small, medium, large;
 
+
+
   MaterialRadius(
       {this.xs = 2, this.small = 4, this.medium = 6, this.large = 8});
 }

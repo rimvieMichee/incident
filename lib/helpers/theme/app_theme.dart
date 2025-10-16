@@ -28,6 +28,9 @@ class AppTheme {
       ? cookifyLightTheme
       : cookifyDarkTheme;
 
+
+
+
 //---------------------------NEW-----------------------------------------
 
   static ThemeData plantTheme =
